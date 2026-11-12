@@ -1,0 +1,482 @@
+[
+ {
+  "file": "01_karate_side_kick_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Jon_Wiedenman_does_vertical_Side_Kick.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Jon_Wiedenman_does_vertical_Side_Kick.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "J.ianmcilhenny",
+  "source_title": "File:Jon Wiedenman does vertical Side Kick.jpg",
+  "width": 724,
+  "height": 957,
+  "subject": "Adult male karate practitioner (black belt)",
+  "pose": "Standing vertical side kick; torso leans away, one leg raised high, arms guarding",
+  "why_usable": "Full body head-to-toe in frame; clean black-and-white studio background; classic karate side-kick silhouette with fully extended leg",
+  "notes": "Vintage scanned photo with mild grain; original 724x957 (height above 800 px); one person",
+  "sha256": "913cf434d0ee15a19b037e8100479fa24df62996c9457fe3b9c9639364cd6982",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    159,
+    16,
+    596,
+    936
+   ],
+   "main_bbox_norm": [
+    0.22,
+    0.016,
+    0.824,
+    0.978
+   ],
+   "main_height_ratio": 0.961
+  }
+ },
+ {
+  "file": "02_karate_flying_kick_sunset_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Karate_kick_at_sunrise_%285398040497%29.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Karate_kick_at_sunrise_(5398040497).jpg",
+  "license": "CC BY 2.0",
+  "author": "bluesbby from Mountain View, USA",
+  "source_title": "File:Karate kick at sunrise (5398040497).jpg",
+  "width": 2000,
+  "height": 1333,
+  "subject": "Silhouetted adult karate practitioner",
+  "pose": "Flying side kick in mid-air, both legs extended, arms out for balance",
+  "why_usable": "Dramatic sunset silhouette; full body airborne; clean limb separation and cinematic backlight",
+  "notes": "Person height about 39% of frame; strong warm sunset grading; one person",
+  "sha256": "cb478df8511474bb5221e9b4c059f5ed0b21231946edd8408b7a49fe1202fe5b",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    252,
+    523,
+    1068,
+    1043
+   ],
+   "main_bbox_norm": [
+    0.126,
+    0.392,
+    0.534,
+    0.782
+   ],
+   "main_height_ratio": 0.39
+  }
+ },
+ {
+  "file": "03_taekwondo_jump_kick_sunset_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Taekwondo_Jumping_Side_Kick_at_Sunset%2C_Houlgate_Beach_-_01.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Taekwondo_Jumping_Side_Kick_at_Sunset,_Houlgate_Beach_-_01.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Benjamin Bellamy",
+  "source_title": "File:Taekwondo Jumping Side Kick at Sunset, Houlgate Beach - 01.jpg",
+  "width": 2000,
+  "height": 1333,
+  "subject": "Silhouetted adult taekwondo athlete",
+  "pose": "Jumping side kick at sunset, one leg extended horizontally",
+  "why_usable": "Full body airborne action on a clean horizon; cinematic sunset backlight",
+  "notes": "Person height about 52% of frame; same shoot as another sunset kick image; one person",
+  "sha256": "f2288657b356f40582cf375e343c70aae6c55a3264981daa7a4f2c7b8a596d62",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    928,
+    318,
+    1794,
+    990
+   ],
+   "main_bbox_norm": [
+    0.464,
+    0.238,
+    0.897,
+    0.743
+   ],
+   "main_height_ratio": 0.505
+  }
+ },
+ {
+  "file": "04_taekwondo_side_kick_room_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Taekwondo_side_kick.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Taekwondo_side_kick.jpg",
+  "license": "Public domain",
+  "author": "Cerebellum",
+  "source_title": "File:Taekwondo side kick.jpg",
+  "width": 1280,
+  "height": 1002,
+  "subject": "Adult male taekwondo athlete in white dobok",
+  "pose": "Standing side kick in a training room, leg extended horizontally, arms guarding",
+  "why_usable": "Natural full-body side kick; clean room background; good leg extension and single-leg balance",
+  "notes": "1719x1345 original; final 1280x1002; public domain; one person",
+  "sha256": "21ee6a5aaaadee3fb1a9415f50c10abc8b645e1adf2ba756accf19d27172373d",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    17,
+    83,
+    1274,
+    964
+   ],
+   "main_bbox_norm": [
+    0.014,
+    0.083,
+    0.995,
+    0.962
+   ],
+   "main_height_ratio": 0.879
+  }
+ },
+ {
+  "file": "05_kung_fu_low_stance_sunset_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Martial_arts_in_the_sunset_Stefano_Kocka.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Martial_arts_in_the_sunset_Stefano_Kocka.jpg",
+  "license": "CC BY 4.0",
+  "author": "Stefano Kocka & Tomasz Niepsuj",
+  "source_title": "File:Martial arts in the sunset Stefano Kocka.jpg",
+  "width": 1920,
+  "height": 1277,
+  "subject": "Male martial artist (bare-chested, dark trousers)",
+  "pose": "Deep low lunge stance with one arm extended forward and the other pulled back",
+  "why_usable": "Strong silhouette against orange sunset; wide grounded stance useful for lower-body pose testing",
+  "notes": "Person height about 83% of frame; orange gradient background; one person",
+  "sha256": "f42ea3aeb22f8b3ebe2996268cb59d4a28e67d18325f1403434868b1d5e43aa3",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    259,
+    205,
+    1806,
+    1264
+   ],
+   "main_bbox_norm": [
+    0.135,
+    0.161,
+    0.941,
+    0.99
+   ],
+   "main_height_ratio": 0.829
+  }
+ },
+ {
+  "file": "06_kung_fu_desert_stance_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Shaolin_Kung_Fu_In_Iran-_Photo_By_2007-Mostafa_meraji_02.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Shaolin_Kung_Fu_In_Iran-_Photo_By_2007-Mostafa_meraji_02.jpg",
+  "license": "CC0",
+  "author": "Mostafameraji",
+  "source_title": "File:Shaolin Kung Fu In Iran- Photo By 2007-Mostafa meraji 02.jpg",
+  "width": 1333,
+  "height": 2000,
+  "subject": "Adult male Shaolin kung fu practitioner in blue uniform",
+  "pose": "One-leg balance stance with right knee raised and one arm overhead",
+  "why_usable": "Full body in a desert setting; clear silhouette; cinematic landscape; balanced single-leg pose",
+  "notes": "2592x3888 portrait; person height about 72%; CC0; one person",
+  "sha256": "95621b12a884a88d48295ac401e64047c381f63e1b6f15e6aaa2306509f14328",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    315,
+    331,
+    970,
+    1760
+   ],
+   "main_bbox_norm": [
+    0.237,
+    0.165,
+    0.727,
+    0.88
+   ],
+   "main_height_ratio": 0.715
+  }
+ },
+ {
+  "file": "07_capoeira_kick_park_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/86/Sunil_-_Capoeira_%282935451512%29.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Sunil_-_Capoeira_(2935451512).jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "Ben30",
+  "source_title": "File:Sunil - Capoeira (2935451512).jpg",
+  "width": 1920,
+  "height": 1280,
+  "subject": "Adult male capoeira practitioner (shirtless, white-green trousers)",
+  "pose": "High front/side kick in a park, arms wide, standing on one leg",
+  "why_usable": "Full body action in natural light; clean tree background; dynamic high kick",
+  "notes": "Person height about 96% of frame; 3252x2168; one person",
+  "sha256": "c80c918f371978dc805edf8704c6151c85dc67fe1f4241754df6ffa6ad72fcb1",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    501,
+    24,
+    1857,
+    1251
+   ],
+   "main_bbox_norm": [
+    0.261,
+    0.019,
+    0.967,
+    0.977
+   ],
+   "main_height_ratio": 0.959
+  }
+ },
+ {
+  "file": "08_drunken_boxing_great_wall_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Drunken_boxing_shaolin_wushu_kwan_gustavo_milazzo_in_the_big_wall_Mutyanyu_China.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Drunken_boxing_shaolin_wushu_kwan_gustavo_milazzo_in_the_big_wall_Mutyanyu_China.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Gustavo milazzo",
+  "source_title": "File:Drunken boxing shaolin wushu kwan gustavo milazzo in the big wall Mutyanyu China.jpg",
+  "width": 1920,
+  "height": 1080,
+  "subject": "Older male drunken boxing / wushu master",
+  "pose": "Low forward lunging palm strike on the Great Wall",
+  "why_usable": "Rare drunken-boxing subject; cinematic Great Wall backdrop; full body visible",
+  "notes": "Person height about 35% of frame (above 1/4); 3264x1836; one person",
+  "sha256": "747e658e217ab1e185aab6f20f3344ac755c8c107fe5f7a2d125e893d454e5a8",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    676,
+    537,
+    1146,
+    914
+   ],
+   "main_bbox_norm": [
+    0.352,
+    0.497,
+    0.597,
+    0.846
+   ],
+   "main_height_ratio": 0.349
+  }
+ },
+ {
+  "file": "09_drunken_boxing_courtyard_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Drunken_boxing_training_gustavo_milazzo.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Drunken_boxing_training_gustavo_milazzo.jpg",
+  "license": "CC BY 4.0",
+  "author": "Gusmilazzo",
+  "source_title": "File:Drunken boxing training gustavo milazzo.jpg",
+  "width": 1125,
+  "height": 2000,
+  "subject": "Older male drunken boxing master in traditional robe",
+  "pose": "Wide low stance with both arms extended, weight on the back leg",
+  "why_usable": "Full-body traditional drunken boxing stance; good martial-arts pose; clean courtyard",
+  "notes": "1836x3264 portrait; person height about 38%; one person",
+  "sha256": "623f43856ff7633761fdb438bfe0acead57cb291ffcc3247b09e5720f6379782",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    181,
+    918,
+    646,
+    1682
+   ],
+   "main_bbox_norm": [
+    0.161,
+    0.459,
+    0.574,
+    0.841
+   ],
+   "main_height_ratio": 0.382
+  }
+ },
+ {
+  "file": "10_ballet_dancer_black_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Ballet_dancer_in_Matosinhos_%28Unsplash%29.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Ballet_dancer_in_Matosinhos_(Unsplash).jpg",
+  "license": "CC0",
+  "author": "Miguel Salgado jmdsalgado",
+  "source_title": "File:Ballet dancer in Matosinhos (Unsplash).jpg",
+  "width": 1333,
+  "height": 2000,
+  "subject": "Adult female ballet dancer",
+  "pose": "Ballet pose en pointe with arms extended and tutu",
+  "why_usable": "Full body against black; excellent limb clarity; artistic dance pose",
+  "notes": "3082x4623; person height about 58%; CC0; one person",
+  "sha256": "c6c2307ffcbe82e11c5d3b77f6170babb8ea196fc19d7b3fff55062303b58519",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    191,
+    459,
+    1182,
+    1621
+   ],
+   "main_bbox_norm": [
+    0.143,
+    0.229,
+    0.887,
+    0.81
+   ],
+   "main_height_ratio": 0.581
+  }
+ },
+ {
+  "file": "11_ballet_leap_red_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/ContemporaryBalletLeap.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:ContemporaryBalletLeap.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Lambtron",
+  "source_title": "File:ContemporaryBalletLeap.jpg",
+  "width": 1280,
+  "height": 1622,
+  "subject": "Adult female ballet dancer in red tutu",
+  "pose": "Contemporary ballet leap with one leg bent under, arms extended",
+  "why_usable": "Full body mid-air dance pose; stage lighting; clean dark background",
+  "notes": "1377x1745; person height about 85%; one person",
+  "sha256": "2d5aeeae961829c758f25fc4411dda1e6800bfb66080869098f3e9a44416cef7",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    298,
+    69,
+    1140,
+    1452
+   ],
+   "main_bbox_norm": [
+    0.233,
+    0.043,
+    0.891,
+    0.895
+   ],
+   "main_height_ratio": 0.852
+  }
+ },
+ {
+  "file": "12_hip_hop_freeze_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Dance_hip_hop.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Dance_hip_hop.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Muhammed amine benloulou",
+  "source_title": "File:Dance hip hop.jpg",
+  "width": 1920,
+  "height": 1280,
+  "subject": "Adult male hip-hop dancer in black tracksuit",
+  "pose": "Floor freeze: crouched one-hand support with legs extended",
+  "why_usable": "Full body breakdance freeze; clean white studio; extreme but readable pose",
+  "notes": "5184x3456; person height about 77%; one person",
+  "sha256": "8ac3f794d72a0fa2742120aa9849c9561f0896922b546c6502cc3e2dd49de1b1",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    492,
+    150,
+    1724,
+    1156
+   ],
+   "main_bbox_norm": [
+    0.256,
+    0.117,
+    0.898,
+    0.903
+   ],
+   "main_height_ratio": 0.786
+  }
+ },
+ {
+  "file": "13_gymnast_air_tuck_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Swiss_gymnast_competing_in_the_Floor_Exercise_at_the_2026_Swiss_Artistic_Gymnastics_Championships_in_Winterthur_Switzerland_04.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Swiss_gymnast_competing_in_the_Floor_Exercise_at_the_2026_Swiss_Artistic_Gymnastics_Championships_in_Winterthur_Switzerland_04.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Quejaytee",
+  "source_title": "File:Swiss gymnast competing in the Floor Exercise at the 2026 Swiss Artistic Gymnastics Championships in Winterthur Switzerland 04.jpg",
+  "width": 1600,
+  "height": 2000,
+  "subject": "Female artistic gymnast in competition leotard",
+  "pose": "Mid-air tuck flip during floor exercise",
+  "why_usable": "Full body inverted aerial pose; good for extreme articulation; sports action",
+  "notes": "2654x3317; person height about 59%; small spectators in background",
+  "sha256": "50b0034196002ff53a1c9101a36d1ed79dd69a66cc0048553d888f8c1f0180ca",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 11,
+   "main_bbox_px": [
+    390,
+    129,
+    969,
+    1311
+   ],
+   "main_bbox_norm": [
+    0.244,
+    0.065,
+    0.606,
+    0.656
+   ],
+   "main_height_ratio": 0.591
+  }
+ },
+ {
+  "file": "14_long_jump_athlete_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/29/2022-08-15_European_Championships_2022_%E2%80%93_Men%27s_Decathlon_%E2%80%93_Long_Jump_by_Sandro_Halank%E2%80%93094.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:2022-08-15_European_Championships_2022_%E2%80%93_Men%27s_Decathlon_%E2%80%93_Long_Jump_by_Sandro_Halank%E2%80%93094.jpg",
+  "license": "CC BY-SA 4.0",
+  "author": "Sandro Halank, Wikimedia Commons",
+  "source_title": "File:2022-08-15 European Championships 2022 – Men's Decathlon – Long Jump by Sandro Halank–094.jpg",
+  "width": 1678,
+  "height": 2000,
+  "subject": "Male long jumper in competition",
+  "pose": "Long jump mid-air, arms raised, legs extended forward",
+  "why_usable": "Full body airborne athletic pose; strong dynamic silhouette",
+  "notes": "3316x3951; person height about 88%; small background crowd",
+  "sha256": "b011a5f39f99dc372aa9c81e6fd290707352c674014799099f7f2ed4c7eb163d",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 11,
+   "main_bbox_px": [
+    135,
+    106,
+    1524,
+    1869
+   ],
+   "main_bbox_norm": [
+    0.08,
+    0.053,
+    0.908,
+    0.935
+   ],
+   "main_height_ratio": 0.881
+  }
+ },
+ {
+  "file": "15_volleyball_spike_wikimedia.jpg",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Volleyball_spike.jpg",
+  "page_url": "https://commons.wikimedia.org/wiki/File:Volleyball_spike.jpg",
+  "license": "CC BY-SA 2.0",
+  "author": "druchoy / Andrew Choy",
+  "source_title": "File:Volleyball spike.jpg",
+  "width": 1280,
+  "height": 1920,
+  "subject": "Female volleyball player",
+  "pose": "Jumping spike with hitting arm extended overhead",
+  "why_usable": "Full body jump; clean outdoor court background; arm extension useful for upper-body pose",
+  "notes": "1365x2048; person height about 66%; one person detected",
+  "sha256": "21520eda2d34c67fd24d3e135bdb2e5e2e5d5a1b93d49782703ccbcb90fc3833",
+  "detection": {
+   "model": "torchvision fasterrcnn_mobilenet_v3_large_fpn (COCO person)",
+   "person_count_score_ge_0.5": 1,
+   "main_bbox_px": [
+    63,
+    645,
+    601,
+    1905
+   ],
+   "main_bbox_norm": [
+    0.049,
+    0.336,
+    0.469,
+    0.992
+   ],
+   "main_height_ratio": 0.656
+  }
+ }
+]

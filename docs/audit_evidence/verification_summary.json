@@ -1,0 +1,193 @@
+{
+  "audit_date": "2026-11-11",
+  "workspace": "D:\\blender5.2\\pose_plugin",
+  "environment": {
+    "blender": "5.2.2 LTS",
+    "python_worker": "3.8.20",
+    "torch": "1.12.0+cu113",
+    "gpu": "NVIDIA GeForce RTX 3060 Laptop 6GB",
+    "mmcv_full": "1.7.1",
+    "mmdet": "2.26.0"
+  },
+  "tests": {
+    "unit": {
+      "total": 19,
+      "passed": 19,
+      "failed": 0,
+      "seconds": 0.13
+    },
+    "blender_headless": {
+      "test_core": "PASS",
+      "test_extension": "PASS",
+      "test_ground": "PASS",
+      "test_hands": "PASS (mapped_bones=52)",
+      "test_operators": "PASS",
+      "test_save_load": "PASS",
+      "test_vrm": "PASS (mapped_bones=22)"
+    },
+    "test_installed_factory_startup": "FAIL (extension not enabled)",
+    "test_installed_with_enable": "PASS (Done: 22 bones)"
+  },
+  "real_s32": {
+    "fullbody_image": "_research/test_images/person_left.jpg",
+    "fullbody_joints": 55,
+    "fullbody_camera_fx_px": 13428.62,
+    "fullbody_camera_principal": [
+      167.33,
+      432.06
+    ],
+    "fullbody_model_to_camera_z": 36.72,
+    "fullbody_pelvis_rotation_deg": 177.4,
+    "fullbody_inference_seconds_approx": 28,
+    "halfbody_image": "_research/test_images/person_left_halfbody.jpg",
+    "halfbody_joints": 55,
+    "halfbody_camera_fx_px": 8301.91,
+    "halfbody_pelvis_rotation_deg": 173.8,
+    "halfbody_knee_angles_deg": {
+      "left": 28.3,
+      "right": 31.1
+    },
+    "warnings": []
+  },
+  "mmd": {
+    "model": "D:/Models/爱莉希雅女仆/爱莉希雅女仆.pmx",
+    "bones": 499,
+    "mesh_vertices": 25595,
+    "mesh_polygons": 30864,
+    "vertex_groups": 453,
+    "mapped_bones_mock": 51,
+    "bbox_rest": {
+      "min": [
+        -0.593,
+        -0.292,
+        -0.002
+      ],
+      "max": [
+        0.593,
+        0.407,
+        1.705
+      ]
+    },
+    "bbox_mock": {
+      "min": [
+        -0.675,
+        -0.292,
+        -0.002
+      ],
+      "max": [
+        0.597,
+        0.407,
+        1.705
+      ]
+    },
+    "bbox_real_s32": {
+      "min": [
+        -0.357,
+        -0.488,
+        -0.294
+      ],
+      "max": [
+        0.597,
+        0.414,
+        0.641
+      ]
+    },
+    "resting_height_m": 1.705,
+    "real_s32_height_m": 0.935
+  },
+  "mesh_integrity": {
+    "base_vertices_unchanged": true,
+    "evaluated_vertices_changed": true,
+    "mesh_data_fields_unchanged": [
+      "vertex_count",
+      "edge_count",
+      "polygon_count",
+      "vertex_groups",
+      "modifiers",
+      "matrix_world"
+    ]
+  },
+  "pose_state_euler_restore": {
+    "restored": false,
+    "before_matrix_first_row": [
+      0.879923,
+      -0.32758,
+      0.344132,
+      0
+    ],
+    "after_matrix_first_row": [
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  "pose_modifier_math": {
+    "rest_deg_x": 90,
+    "pose_deg_y": 30,
+    "factor": 0.5,
+    "expected_deg": 15,
+    "actual_deg": 48.462347,
+    "expected_axis": [
+      0,
+      1,
+      0
+    ],
+    "actual_axis": [
+      0.939,
+      0.344,
+      0
+    ]
+  },
+  "preset_coverage": {
+    "mixamo": {
+      "body": 22,
+      "fingers": 30,
+      "total": 52
+    },
+    "vrm": {
+      "body": 22,
+      "fingers": 12,
+      "total": 34,
+      "missing_finger_groups": [
+        "middle",
+        "ring",
+        "pinky"
+      ]
+    },
+    "mmd": {
+      "body": 21,
+      "fingers": 30,
+      "total": 51
+    }
+  },
+  "scene_side_effects": {
+    "auto_camera_creates": "Pose2Rig_Camera",
+    "render_resolution_before": [
+      1920,
+      1080,
+      100
+    ],
+    "render_resolution_after": [
+      1200,
+      1600,
+      100
+    ],
+    "loads_reference_image": true
+  },
+  "dist_zip_sha256": "56262993D5617A0241835A558F3FA39C612F9E9FC3C5DB04A02B4242391DC3AD",
+  "verdicts": {
+    "extension_build_install": "PASS",
+    "mock_pipeline": "PASS (test fixture only)",
+    "real_s32_data_pipeline": "PASS (valid pose_result/v1)",
+    "real_s32_pose_on_z_up_rig": "FAIL (coordinate conversion missing)",
+    "halfbody": "UNSUPPORTED / unreliable",
+    "multiperson_warning": "NOT IMPLEMENTED",
+    "vrm_30_fingers": "PARTIAL (12 of 30)",
+    "mesh_data_integrity": "PASS",
+    "only_bone_data": "PARTIAL (auto camera changes scene)",
+    "save_load_pose": "PASS",
+    "custom_mapping": "NOT IMPLEMENTED",
+    "sixty_image_quality_report": "NOT DONE"
+  }
+}

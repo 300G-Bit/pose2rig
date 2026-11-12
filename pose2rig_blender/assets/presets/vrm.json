@@ -1,0 +1,229 @@
+{
+  "preset_name": "VRM humanoid",
+  "prefixes": [
+    "",
+    "J_Bip_"
+  ],
+  "bone_mapping": {
+    "pelvis": [
+      "hips",
+      "Hips",
+      "J_Bip_C_Hips"
+    ],
+    "spine1": [
+      "spine",
+      "Spine",
+      "J_Bip_C_Spine"
+    ],
+    "spine2": [
+      "chest",
+      "Chest",
+      "J_Bip_C_Chest"
+    ],
+    "spine3": [
+      "upperChest",
+      "UpperChest",
+      "J_Bip_C_UpperChest"
+    ],
+    "neck": [
+      "neck",
+      "Neck",
+      "J_Bip_C_Neck"
+    ],
+    "head": [
+      "head",
+      "Head",
+      "J_Bip_C_Head"
+    ],
+    "left_collar": [
+      "leftShoulder",
+      "LeftShoulder",
+      "J_Bip_L_Shoulder"
+    ],
+    "right_collar": [
+      "rightShoulder",
+      "RightShoulder",
+      "J_Bip_R_Shoulder"
+    ],
+    "left_shoulder": [
+      "leftUpperArm",
+      "LeftUpperArm",
+      "J_Bip_L_UpperArm"
+    ],
+    "right_shoulder": [
+      "rightUpperArm",
+      "RightUpperArm",
+      "J_Bip_R_UpperArm"
+    ],
+    "left_elbow": [
+      "leftLowerArm",
+      "LeftLowerArm",
+      "J_Bip_L_LowerArm"
+    ],
+    "right_elbow": [
+      "rightLowerArm",
+      "RightLowerArm",
+      "J_Bip_R_LowerArm"
+    ],
+    "left_wrist": [
+      "leftHand",
+      "LeftHand",
+      "J_Bip_L_Hand"
+    ],
+    "right_wrist": [
+      "rightHand",
+      "RightHand",
+      "J_Bip_R_Hand"
+    ],
+    "left_hip": [
+      "leftUpperLeg",
+      "LeftUpperLeg",
+      "J_Bip_L_UpperLeg"
+    ],
+    "right_hip": [
+      "rightUpperLeg",
+      "RightUpperLeg",
+      "J_Bip_R_UpperLeg"
+    ],
+    "left_knee": [
+      "leftLowerLeg",
+      "LeftLowerLeg",
+      "J_Bip_L_LowerLeg"
+    ],
+    "right_knee": [
+      "rightLowerLeg",
+      "RightLowerLeg",
+      "J_Bip_R_LowerLeg"
+    ],
+    "left_ankle": [
+      "leftFoot",
+      "LeftFoot",
+      "J_Bip_L_Foot"
+    ],
+    "right_ankle": [
+      "rightFoot",
+      "RightFoot",
+      "J_Bip_R_Foot"
+    ],
+    "left_foot": [
+      "leftToes",
+      "LeftToes",
+      "J_Bip_L_ToeBase"
+    ],
+    "right_foot": [
+      "rightToes",
+      "RightToes",
+      "J_Bip_R_ToeBase"
+    ],
+    "left_thumb1": [
+      "leftThumbProximal",
+      "LeftThumbProximal",
+      "J_Bip_L_Thumb1"
+    ],
+    "left_thumb2": [
+      "leftThumbIntermediate",
+      "LeftThumbIntermediate",
+      "J_Bip_L_Thumb2"
+    ],
+    "left_thumb3": [
+      "leftThumbDistal",
+      "LeftThumbDistal",
+      "J_Bip_L_Thumb3"
+    ],
+    "left_index1": [
+      "leftIndexProximal",
+      "LeftIndexProximal",
+      "J_Bip_L_Index1"
+    ],
+    "left_index2": [
+      "leftIndexIntermediate",
+      "LeftIndexIntermediate",
+      "J_Bip_L_Index2"
+    ],
+    "left_index3": [
+      "leftIndexDistal",
+      "LeftIndexDistal",
+      "J_Bip_L_Index3"
+    ],
+    "right_thumb1": [
+      "rightThumbProximal",
+      "RightThumbProximal",
+      "J_Bip_R_Thumb1"
+    ],
+    "right_thumb2": [
+      "rightThumbIntermediate",
+      "RightThumbIntermediate",
+      "J_Bip_R_Thumb2"
+    ],
+    "right_thumb3": [
+      "rightThumbDistal",
+      "RightThumbDistal",
+      "J_Bip_R_Thumb3"
+    ],
+    "right_index1": [
+      "rightIndexProximal",
+      "RightIndexProximal",
+      "J_Bip_R_Index1"
+    ],
+    "right_index2": [
+      "rightIndexIntermediate",
+      "RightIndexIntermediate",
+      "J_Bip_R_Index2"
+    ],
+    "right_index3": [
+      "rightIndexDistal",
+      "RightIndexDistal",
+      "J_Bip_R_Index3"
+    ],
+    "left_middle1": ["leftMiddleProximal", "LeftMiddleProximal", "J_Bip_L_Middle1"],
+    "left_middle2": ["leftMiddleIntermediate", "LeftMiddleIntermediate", "J_Bip_L_Middle2"],
+    "left_middle3": ["leftMiddleDistal", "LeftMiddleDistal", "J_Bip_L_Middle3"],
+    "left_ring1": ["leftRingProximal", "LeftRingProximal", "J_Bip_L_Ring1"],
+    "left_ring2": ["leftRingIntermediate", "LeftRingIntermediate", "J_Bip_L_Ring2"],
+    "left_ring3": ["leftRingDistal", "LeftRingDistal", "J_Bip_L_Ring3"],
+    "left_pinky1": ["leftPinkyProximal", "LeftPinkyProximal", "J_Bip_L_Pinky1"],
+    "left_pinky2": ["leftPinkyIntermediate", "LeftPinkyIntermediate", "J_Bip_L_Pinky2"],
+    "left_pinky3": ["leftPinkyDistal", "LeftPinkyDistal", "J_Bip_L_Pinky3"],
+    "right_middle1": ["rightMiddleProximal", "RightMiddleProximal", "J_Bip_R_Middle1"],
+    "right_middle2": ["rightMiddleIntermediate", "RightMiddleIntermediate", "J_Bip_R_Middle2"],
+    "right_middle3": ["rightMiddleDistal", "RightMiddleDistal", "J_Bip_R_Middle3"],
+    "right_ring1": ["rightRingProximal", "RightRingProximal", "J_Bip_R_Ring1"],
+    "right_ring2": ["rightRingIntermediate", "RightRingIntermediate", "J_Bip_R_Ring2"],
+    "right_ring3": ["rightRingDistal", "RightRingDistal", "J_Bip_R_Ring3"],
+    "right_pinky1": ["rightPinkyProximal", "RightPinkyProximal", "J_Bip_R_Pinky1"],
+    "right_pinky2": ["rightPinkyIntermediate", "RightPinkyIntermediate", "J_Bip_R_Pinky2"],
+    "right_pinky3": ["rightPinkyDistal", "RightPinkyDistal", "J_Bip_R_Pinky3"]
+  },
+  "required": [
+    "hips",
+    "spine",
+    "chest",
+    "neck",
+    "head",
+    "leftUpperArm",
+    "rightUpperArm",
+    "leftUpperLeg",
+    "rightUpperLeg",
+    "leftFoot",
+    "rightFoot"
+  ],
+  "root": "hips",
+  "required_joints": [
+    "pelvis",
+    "spine1",
+    "spine2",
+    "spine3",
+    "neck",
+    "head",
+    "left_shoulder",
+    "right_shoulder",
+    "left_elbow",
+    "right_elbow",
+    "left_hip",
+    "right_hip",
+    "left_knee",
+    "right_knee",
+    "left_ankle",
+    "right_ankle"
+  ]
+}

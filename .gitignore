@@ -1,0 +1,12 @@
+_models/
+dist/
+__pycache__/
+*.pyc
+_envs/
+_research/
+.pytest_cache/
+*.log
+Thumbs.db
+.DS_Store
+pose2rig_blender/assets/models/ue_mannequin/
+pose2rig_blender/assets/skeleton/smplx_rest_skeleton.json

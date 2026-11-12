@@ -1,0 +1,17 @@
+schema_version = "1.0.0"
+
+id = "pose2rig"
+version = "0.2.2"
+name = "Pose2Rig"
+tagline = "Single image to 3D pose for Blender"
+maintainer = "Pose2Rig PoC"
+type = "add-on"
+
+blender_version_min = "5.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+[permissions]
+files = "Read reference images and write pose cache files"
+network = "Download optional model weights"
